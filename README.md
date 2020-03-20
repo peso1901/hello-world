@@ -1,2 +1,2 @@
 # fj-rr-repo
-Ändring 2
+Ändring efter merge conflict
